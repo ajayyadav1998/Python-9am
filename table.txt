@@ -1,0 +1,5 @@
+id	name	math	science
+1	ajay	65	56
+2	sid	89	98
+3	vai	56	98
+4	nikhil	78	87

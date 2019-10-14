@@ -1,4 +1,4 @@
-k,jjfirst of all create a repository on your git hub account
+first of all create a repository on your git hub account
 
 than open powershell and go to your code folder
 
